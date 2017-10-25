@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#232523</color>
+    <color name="colorPrimaryDark">#000300</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main">#948f93 </color>
+    <color name="chest">#f5190b</color>
+    <color name="back">#fce903</color>
+    <color name="shoulder">#1f1feb </color>
+    <color name="bicep">#53f20e </color>
+    <color name="tricep">#0ef2c9</color>
+    <color name="abs">#d936be</color>
+
+</resources>
